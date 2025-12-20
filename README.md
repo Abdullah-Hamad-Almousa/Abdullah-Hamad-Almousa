@@ -1,4 +1,4 @@
-Hi, I’m @Abdullah-Hamad-Almousa
+# ![wave](https://imgur.com/a/l72LBXo) Hi, I’m @Abdullah-Hamad-Almousa
 - 👀 I’m interested in Machine learning and developing apps,
   🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
