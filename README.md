@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/l72LBXo" data-context="false" ><a href="//imgur.com/a/l72LBXo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script> Hi, I’m @Abdullah-Hamad-Almousa
+![waving](<blockquote class="imgur-embed-pub" lang="en" data-id="a/l72LBXo" data-context="false" ><a href="//imgur.com/a/l72LBXo"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>) Hi, I’m @Abdullah-Hamad-Almousa
 - 👀 I’m interested in Machine learning and developing apps,
   🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
