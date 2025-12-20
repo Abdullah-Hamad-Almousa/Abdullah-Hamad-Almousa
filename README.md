@@ -5,6 +5,6 @@
 - 📫 You can reach me with my emile almousa0132@gmail.com
 - ⚡ Fun fact: Fresh graduate from college as bachelors computer science
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,xml,kotlin,java,python,anaconda,androidstudio,apple,eclipse,git,github,gradle,idea,ktor,mongodb,mysql,opencv,pycharm,pytorch,sublime,swift,tensorflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,htmx,kotlin,java,python,anaconda,androidstudio,apple,eclipse,git,github,gradle,idea,ktor,mongodb,mysql,opencv,pycharm,pytorch,sublime,swift,tensorflow,vscode)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hamad-Almousa&layout=compact)
