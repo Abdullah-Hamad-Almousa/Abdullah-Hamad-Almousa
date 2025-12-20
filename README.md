@@ -5,4 +5,4 @@
 - 📫 You can reach me with my emile almousa0132@gmail.com
 - ⚡ Fun fact: Fresh graduate from college as bachelors computer science
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa)](https://github.com/anuraghazra/github-readme-stats)
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&hide=contribs,prs)
