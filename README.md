@@ -1,4 +1,4 @@
-# Hi, I’m @Abdullah-Hamad-Almousa <img src="https://imgur.com/a/waving-l72LBXo.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi, I’m @Abdullah-Hamad-Almousa <img src="https://imgur.com/a/l72LBXo.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 - 👀 I’m interested in Machine learning and developing apps,
   🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
