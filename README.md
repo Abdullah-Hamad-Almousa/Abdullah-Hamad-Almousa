@@ -4,5 +4,3 @@
 - 👍 I’m looking to collaborate on in Machine learning
 - 📫 You can reach me with my emile almousa0132@gmail.com
 - ⚡ Fun fact: Fresh graduate from college as bachelors computer science
-
-![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&hide=contribs,prs)
