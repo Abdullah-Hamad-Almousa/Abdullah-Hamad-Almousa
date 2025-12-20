@@ -1,5 +1,4 @@
-# Hi, I’m @Abdullah-Hamad-Almousa
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I’m @Abdullah-Hamad-Almousa
 - 👀 I’m interested in Machine learning and developing apps,
   🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
