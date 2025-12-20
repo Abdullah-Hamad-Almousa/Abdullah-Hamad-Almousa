@@ -1,5 +1,5 @@
 # ![emoji](https://imgur.com/a/l72LBXo) Hi, I’m @Abdullah-Hamad-Almousa
-<img src="https://imgur.com/a/l72LBXo" width="32" />
+<img src="https://imgur.com/a/waving-l72LBXo" width="32" />
 - 👀 I’m interested in Machine learning and developing apps,
   🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
