@@ -1,9 +1,9 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I’m @Abdullah-Hamad-Almousa
+
+
 - 👀 I’m interested in Machine learning and developing apps,
-  🌱 and I’m learning more about it
 - 👍 I’m looking to collaborate on in Machine learning
-- 📫 You can reach me with my emile almousa0132@gmail.com
-- ⚡ Fun fact: Fresh graduate from college as bachelors computer science
+- 📫 You can reach me through:<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="E-Mail" width="25" height="25" />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,htmx,kotlin,java,python,anaconda,androidstudio,apple,eclipse,git,github,gradle,idea,ktor,mongodb,mysql,opencv,pycharm,pytorch,sublime,swift,tensorflow,vscode)](https://skillicons.dev)
 
