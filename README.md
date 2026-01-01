@@ -11,3 +11,4 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,htmx,kotlin,java,python,anaconda,androidstudio,eclipse,git,github,gradle,idea,ktor,mongodb,mysql,opencv,pycharm,pytorch,sublime,swift,tensorflow,vscode)](https://skillicons.dev)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
+[![My GitHub Stats](images/userstats.svg)](https://github.com/cicirello/user-statistician)
