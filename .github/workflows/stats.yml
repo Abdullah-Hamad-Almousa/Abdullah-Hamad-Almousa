@@ -1,24 +1,23 @@
-name: GitHub Stats Card
+name: user-statistician
 
 on:
   schedule:
-    - cron: '0 3 * * *'   # Runs daily at 3 AM UTC
-  workflow_dispatch:      # Lets you run it manually
+    - cron: '0 3 * * *'
+  workflow_dispatch:
 
 jobs:
   stats:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      
     steps:
-      - uses: actions/checkout@v4
+    - uses: actions/checkout@v4
 
-      - name: Generate GitHub stats SVG
-        uses: cicirello/user-statistician@v1
-        with:
-          custom-title: "My GitHub Stats"
-          max-languages: 6
-          colors: dark-dimmed
-          animated-language-chart: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Generate the user stats image
+      uses: cicirello/user-statistician@v1
+      with:
+        colors: dark
+        include-title: false
+      env:
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
