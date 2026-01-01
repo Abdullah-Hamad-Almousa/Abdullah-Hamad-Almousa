@@ -12,5 +12,4 @@
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
 ![My user statistics](images/userstats.svg)
----
 [![My user statistics](images/userstats.svg)](https://github.com/cicirello/user-statistician)
