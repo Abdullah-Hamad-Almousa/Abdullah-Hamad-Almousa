@@ -15,7 +15,3 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
----
-![lulunac27a github-stats](https://stats.dooboo.io/api/github-stats?login=Abdullah-Hamad-Almousa)
----
-![lulunac27a github-trophies](https://stats.dooboo.io/api/github-trophies?login=Abdullah-Hamad-Almousa)
