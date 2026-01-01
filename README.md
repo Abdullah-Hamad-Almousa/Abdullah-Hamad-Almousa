@@ -15,3 +15,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
+---
+![Overview](https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/github-stats/master/generated/overview.svg)
+---
+![Languages](https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/github-stats/master/generated/languages.svg)
+---
+![Detailed Overview](https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/Stats/actions_branch/generated_images/overview.svg)
