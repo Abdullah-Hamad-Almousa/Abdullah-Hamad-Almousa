@@ -11,4 +11,5 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,htmx,kotlin,java,python,anaconda,androidstudio,eclipse,git,github,gradle,idea,ktor,mongodb,mysql,opencv,pycharm,pytorch,sublime,swift,tensorflow,vscode)](https://skillicons.dev)
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" /> Github Stats:
-![Languages](https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/github-stats/master/generated/languages.svg)
+[![Abdullah-Hamad-Almousa profile views](https://u8views.com/api/v1/github/profiles/100660343/views/day-week-month-total-count.svg)](https://u8views.com/github/Abdullah-Hamad-Almousa)</details>
+<details><summary><b>User Statistician</b></summary>
