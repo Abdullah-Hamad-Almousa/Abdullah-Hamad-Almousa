@@ -13,5 +13,7 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=darkmod)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
