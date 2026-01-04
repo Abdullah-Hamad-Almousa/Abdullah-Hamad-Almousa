@@ -18,4 +18,5 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa)
 
-![Abdullah-Hamad-Almousa](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&show_icons=true&theme=radical)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-123-blue)
+
