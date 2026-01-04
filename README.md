@@ -15,3 +15,5 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa)
