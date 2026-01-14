@@ -62,11 +62,7 @@
   </a>
 </div>
 
-###
-
 <img align="right" height="134" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJodXhnNHdpdzJqOGZ4eHc4cTF6dzhmaWNrMG90Y3lzdmlmenEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
