@@ -24,7 +24,11 @@
 
 <img align="right" height="134" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJodXhnNHdpdzJqOGZ4eHc4cTF6dzhmaWNrMG90Y3lzdmlmenEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
+###
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="80" height="80" /> Languages and Tools:
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" alt="python logo"  />
