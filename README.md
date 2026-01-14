@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=flat" height="75" alt="whatsapp logo"  />
   </a>
 <a href="https://my-resume-kappa-one.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="75" alt="Portfolio">
+<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Portfolio">
 </a>
   
 </div>
