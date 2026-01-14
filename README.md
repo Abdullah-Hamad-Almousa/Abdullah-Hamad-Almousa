@@ -5,7 +5,7 @@
 - 👍 I’m looking to collaborate on in Machine learning
 - 📫 You can reach me through:
 
-<a href="https://abdullah-hamad-almousa.github.io/My_Resume/" title="Portfolio"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="80" height="80" /></a>
+<a href="https://abdullah-hamad-almousa.github.io/My_Resume/" title="Portfolio"><img target="_blank" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="80" height="80" /></a>
 
 <div align="left">
   <a href="discordapp.com/users/573955457429930028" target="_blank">
