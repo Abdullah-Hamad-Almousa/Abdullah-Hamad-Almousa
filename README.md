@@ -19,8 +19,9 @@
   <a href="https://wa.me/966591666919?text=Hello%20Abdullah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=flat" height="75" alt="whatsapp logo"  />
   </a>
-
-  [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://my-resume-kappa-one.vercel.app/)
+<a href="https://my-resume-kappa-one.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
+</a>
   
 </div>
 
