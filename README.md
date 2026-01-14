@@ -16,6 +16,14 @@
 ---
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
 </div>
