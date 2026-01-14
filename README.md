@@ -63,6 +63,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="75" alt="vscode logo"  />
 </div>
 
+###
+
+# 📊 GitHub Stats:
+
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
@@ -71,11 +75,6 @@
 
 ###
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Abdullah-Hamad-Almousa's GitHub Stats" />
-
-###
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Hamad-Almousa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
