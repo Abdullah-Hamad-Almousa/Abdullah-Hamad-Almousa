@@ -72,9 +72,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/Abdullah-Hamad-Almousa/output/snake.svg" alt="Snake animation" />
-
-###
