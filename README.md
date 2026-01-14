@@ -67,6 +67,13 @@
 
 ###
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Hamad-Almousa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
 </div>
