@@ -18,6 +18,10 @@
 
 ###
 
+<img align="right" height="134" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJodXhnNHdpdzJqOGZ4eHc4cTF6dzhmaWNrMG90Y3lzdmlmenEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
