@@ -49,16 +49,16 @@
 
 <div align="left">
   <a href="discordapp.com/users/573955457429930028" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=305CDE&logoColor=black&labelColor=&style=flat" height="50" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=305CDE&logoColor=black&labelColor=&style=flat" height="75" alt="discord logo"  />
   </a>
   <a href="mailto:abdullahmlwork@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="50" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="75" alt="gmail logo"  />
   </a>
   <a href="http://linkedin.com/in/abdullah-almousa-a76562237" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=flat" height="50" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=flat" height="75" alt="linkedin logo"  />
   </a>
   <a href="https://wa.me/966591666919?text=Hello%20Abdullah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=flat" height="50" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=flat" height="75" alt="whatsapp logo"  />
   </a>
 </div>
 
