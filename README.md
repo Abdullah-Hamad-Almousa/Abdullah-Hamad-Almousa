@@ -81,6 +81,10 @@
 
 ###
 
+[![My user statistics](images/userstats.svg)](https://github.com/Abdullah-Hamad-Almousa/user-statistician)
+
+###
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
 </div>
