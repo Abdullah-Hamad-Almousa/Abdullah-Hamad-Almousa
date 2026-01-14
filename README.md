@@ -65,9 +65,9 @@
 
 ###
 
-# 📊 GitHub Stats:
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
+
+# 📊 GitHub Stats:
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
 ---
