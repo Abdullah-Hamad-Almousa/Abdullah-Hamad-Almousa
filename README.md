@@ -71,6 +71,10 @@
 
 ###
 
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Abdullah-Hamad-Almousa's GitHub Stats" />
+
+###
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Hamad-Almousa&theme=dark&hide_border=false)<br/>
