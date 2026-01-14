@@ -71,14 +71,14 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/Abdullah-Hamad-Almousa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Abdullah-Hamad-Almousa/Abdullah-Hamad-Almousa/output/snake.svg" alt="Snake animation" />
 
 ###
