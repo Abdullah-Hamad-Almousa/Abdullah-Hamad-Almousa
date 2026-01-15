@@ -81,7 +81,7 @@
 
 ###
 
-[![My user statistics](images/userstats.svg)](https://github.com/Abdullah-Hamad-Almousa/user-statistician)
+[![Abdullah Almousa statistics](images/userstats.svg)](https://github.com/Abdullah-Hamad-Almousa/user-statistician)
 
 ###
 
