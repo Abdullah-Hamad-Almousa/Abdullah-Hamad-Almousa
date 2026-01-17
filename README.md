@@ -1,110 +1,92 @@
-<h1>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png"
-       width="40" height="40" />
-  Hi, I’m @Abdullah-Hamad-Almousa
-</h1>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I’m @Abdullah-Hamad-Almousa
 
-<table border="1" cellpadding="8" cellspacing="0" width="100%">
-  <tr>
-    <th align="left">👀 Interests</th>
-    <td>Machine Learning</td>
-  </tr>
-  <tr>
-    <th align="left">🤝 Collaboration</th>
-    <td>Open to Machine Learning projects</td>
-  </tr>
-</table>
 
-<br>
+- 👀 I’m interested in Machine learning,
+- 👍 I’m looking to collaborate on in Machine learning
+- 📫 You can reach me through:
 
-<h2>📫 Contact</h2>
+<div align="left">
+  
+  <a href="discordapp.com/users/573955457429930028" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=305CDE&logoColor=black&labelColor=&style=flat" height="75" alt="discord logo"  />
+  </a>
+  <a href="mailto:abdullahmlwork@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=black&labelColor=&style=flat" height="75" alt="gmail logo"  />
+  </a>
+  <a href="http://linkedin.com/in/abdullah-almousa-a76562237" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=&labelColor=&style=flat" height="75" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/966591666919?text=Hello%20Abdullah" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=black&labelColor=&style=flat" height="75" alt="whatsapp logo"  />
+  </a>
+<a href="https://my-resume-kappa-one.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="50" alt="Portfolio">
+</a>
+  
+</div>
 
-<table border="1" cellpadding="8" cellspacing="0" width="100%">
-  <tr align="center">
-    <td>
-      <a href="https://discordapp.com/users/573955457429930028">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=305CDE&style=flat" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="mailto:abdullahmlwork@gmail.com">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=flat" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://linkedin.com/in/abdullah-almousa-a76562237">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=flat" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://wa.me/966591666919">
-        <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&color=25D366&style=flat" height="40">
-      </a>
-    </td>
-    <td>
-      <a href="https://my-resume-kappa-one.vercel.app/">
-        <img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=ko-fi&logoColor=white" height="40">
-      </a>
-    </td>
-  </tr>
-</table>
+<img align="right" height="134" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJodXhnNHdpdzJqOGZ4eHc4cTF6dzhmaWNrMG90Y3lzdmlmenEyNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 
-<br>
+### <br>
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png"
-       width="40" height="40" />
-  Languages & Tools
-</h2>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="80" height="80" /> Languages and Tools:
 
-<table border="1" cellpadding="8" cellspacing="0" width="100%">
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"></td>
-  </tr>
-  <tr align="center">
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40"></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"></td>
-    <td colspan="2"></td>
-  </tr>
-</table>
+### <br>
 
-<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="50" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+</div>
 
-<h2>📊 GitHub Stats</h2>
+###
 
-<table border="1" cellpadding="8" cellspacing="0" width="100%">
-  <tr align="center">
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark">
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Abdullah-Hamad-Almousa&theme=dark">
-    </td>
-  </tr>
-  <tr align="center">
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hamad-Almousa&layout=compact&theme=dark">
-    </td>
-  </tr>
-</table>
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Black%20Cat.png" alt="Black Cat" width="80" height="80" />
 
-<br>
+# 📊 GitHub Stats:
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa">
-    </td>
-  </tr>
-</table>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abdullah-Hamad-Almousa&theme=default)
+---
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default)
+
+###
+
+![](https://github-readme-stats.vercel.app/api?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Hamad-Almousa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Hamad-Almousa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+[![Abdullah Almousa statistics](images/userstats.svg)](https://github.com/Abdullah-Hamad-Almousa/user-statistician)
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdullah-Hamad-Almousa.Abdullah-Hamad-Almousa&left_color=royalblue&right_color=gold"  />
+</div>
+
+###
