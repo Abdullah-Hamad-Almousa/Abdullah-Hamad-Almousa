@@ -68,6 +68,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+  <img width="12" />
 </div>
 
 ###
