@@ -2,8 +2,6 @@
 
 
 - 👀 I’m interested in Machine learning,
-- 👍 I’m looking to collaborate on in Machine learning
-- 📫 You can reach me through:
 
 <div align="left">
   
