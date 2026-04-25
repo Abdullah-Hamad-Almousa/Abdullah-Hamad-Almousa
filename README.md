@@ -68,6 +68,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+  <img width="12" />
 </div>
 
 ###
