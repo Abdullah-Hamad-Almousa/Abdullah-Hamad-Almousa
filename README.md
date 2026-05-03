@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I’m @Abdullah-Hamad-Almousa
 
-- 👀 I’m interested in Machine learning
+<h3 align="center">ML Engineer | Production AI Systems & Model Deployment | AWS</h3>
 
 <h2 align="center">Connect With Me</h2>
 
@@ -30,6 +30,45 @@
       <a href="https://abdullah-hamad-almousa.github.io/MyNewPortfolio/" target="_blank">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" alt="Portfolio">
       </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## About Me
+
+I build and deploy end-to-end machine learning systems in production environments on AWS. I specialize in integrating AI into real-world applications from backend APIs to mobile-ready solutions bridging the gap between data science and software engineering.
+
+- **End-to-end ML pipelines:** data preprocessing, model training, evaluation, and deployment  
+- **Cloud & Production:** AWS infrastructure for scalable model serving  
+- **AI in Applications:** connecting ML models to apps via FastAPI, Ktor, and Kotlin backends  
+- **Modern AI:** comfortable with LLMs and generative AI paradigms 
+
+<br>
+
+## Featured Projects
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Abdullah-Hamad-Almousa/UsedCarsModel">UsedCarsModel</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+      </p>
+      <p>End-to-end regression pipeline that predicts used car prices based on vehicle features. Covers data cleaning, feature engineering, model training, and evaluation.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/Abdullah-Hamad-Almousa/Android_Malware_detection">Android Malware Detection</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat" alt="ML"/>
+        <img src="https://img.shields.io/badge/Classification-FF6F00?style=flat" alt="Classification"/>
+      </p>
+      <p>ML classification model for detecting Android malware. Achieved <b>99.3% accuracy</b> on the primary dataset and <b>96% accuracy</b> on the secondary dataset.</p>
     </td>
   </tr>
 </table>
@@ -186,6 +225,9 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Abdullah-Hamad-Almousa&theme=default" />
     </td>
   </tr>
+  <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-Hamad-Almousa&theme=react" alt="GitHub Activity Graph" />
+</p>
 </table>
 
 <div align="center">
