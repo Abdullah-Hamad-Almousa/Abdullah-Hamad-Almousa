@@ -75,7 +75,9 @@ I build and deploy end-to-end machine learning systems in production environment
 
 <br>
 
-<h2 align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" height="30" /> Languages and Tools</h2>
+<p align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer.png" alt="Hammer" width="30" height="30" /> Languages and Tools</p>
+
+<hr>
 
 <table align="center">
   <tr>
