@@ -7,11 +7,6 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="discordapp.com/users/573955457429930028" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=305CDE&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo" />
-      </a>
-    </td>
-    <td align="center">
       <a href="mailto:abdullahmlwork@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo" />
       </a>
@@ -19,18 +14,18 @@
     <td align="center">
       <a href="http://linkedin.com/in/abdullah-almousa-a76562237" target="_blank">
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
-      </a>
     </td>
     <td align="center">
       <a href="https://wa.me/966591666919?text=Hello%20Abdullah" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo" />
-      </a>
     </td>
     <td align="center">
-      <a href="https://abdullah-hamad-almousa.github.io/MyNewPortfolio/" target="_blank">
+      <a href="https://www.modelai.website" target="_blank">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" height="40" alt="Portfolio">
-      </a>
     </td>
+    <td align="center">
+    <a href="https://api.modelai.website" target="_blank">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="100" height="48" />
   </tr>
 </table>
 
